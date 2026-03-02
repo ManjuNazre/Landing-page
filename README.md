@@ -33,32 +33,6 @@ my-stock-assistant-landing-page/
 └── index.html       # Complete single-file landing page
 ```
 
-## ⚡ Getting Started
-
-1. Clone the repository:
-```bash
-   git clone https://github.com/your-username/my-stock-assistant-landing-page.git
-```
-2. Open `index.html` in your browser — that's it.
-
-## 📬 Contact Info (as shown on page)
-
-- **Email:** support@mystockassistant.com
-- **Phone:** +1 (800) 725-8462
-- **Office:** 42 Wall Street, Suite 1800, New York, NY 10005
-- **Hours:** Mon–Fri, 9:00 AM – 6:00 PM EST
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-> ⚠️ Disclaimer: This is a landing page template only. Content is not real financial advice.
-```
-
----
-
 **Topics/Tags to add on GitHub** (under the repo description):
 ```
 html css javascript landing-page stock-market finance ai no-framework responsive dark-theme
